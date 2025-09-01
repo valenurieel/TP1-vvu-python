@@ -2,7 +2,7 @@ import random
 import os
 
 #Tupla que contiene palabras que rotarán en el juego.
-Palabras_Ahorcado= ("python", "hola mundo", "programacion", "desarrollador", "algoritmo", "pc", "monitor", "pelota", "lionel messi", "lunes")
+Palabras_Ahorcado= ("python", "lomas", "programacion", "desarrollador", "algoritmo", "pc", "monitor", "pelota", "temperley", "lunes")
 
 #función que elege palabra al azar de la tupla.
 def palabras_random():

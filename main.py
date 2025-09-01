@@ -17,7 +17,7 @@ def ahorcado():
 
         if valor == "!":
 #            f.limpiar()
-            print("Atención, si te equivocas perderás el juego. ¡Muchas Suerte!") #Arriesgando la palabra completa.1
+            print("Atención, si te equivocas perderás el juego. ¡Muchas Suerte!") #Arriesgando la palabra completa.
             intento= f.escribir_palabra()
             if intento == estado_inicio["palabras"]:
                 estado_inicio["gano"]= True
